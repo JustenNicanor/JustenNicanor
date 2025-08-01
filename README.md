@@ -7,7 +7,6 @@
 ## 💼 Projects
 - **🌊 iDrated** - Smart Water Jug with Android App Integration (ESP32 + Firebase + Kotlin)  
 - **📦 Material Monitoring System** - Web app developed for Hayakawa Internship (PHP + SQL)  
-- **📱 BloomBuddy** - Pregnancy Tracker Mobile App (Android, Firebase, UI/UX Design)
 - **📱 GaDo** - Budget expenses Tracker Mobile App (Android, Firebase, UI/UX Design)
 
 ## 🛠️ Tech Stack
