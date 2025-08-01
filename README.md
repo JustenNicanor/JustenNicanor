@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Justen Nicanor
 
-<!--
-**JustenNicanor/JustenNicanor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Fresh Graduate in BS Computer Engineering  
+🔧 Passionate about Web & Mobile Development | Embedded Systems | IoT  
+🚀 Always learning, building, and improving
 
-Here are some ideas to get you started:
+## 💼 Projects
+- **🌊 iDrated** - Smart Water Jug with Android App Integration (ESP32 + Firebase + Kotlin)  
+- **📦 Material Monitoring System** - Web app developed for Hayakawa Internship (PHP + SQL)  
+- **📱 BloomBuddy** - Pregnancy Tracker Mobile App (Android, Firebase, UI/UX Design)
+- **📱 GaDo** - Budget expenses Tracker Mobile App (Android, Firebase, UI/UX Design)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Languages: Java, Kotlin, C++, PHP, JavaScript  
+- Tools: Android Studio, Firebase, ESP32, MySQL, Git, Cordova  
+- Others: UI/UX Design, Testing, JSON, REST APIs
+
+
+## 📫 Reach Me
+- 📧 justenlnicanor@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/justen-nicanor-877b5a355?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- 🌐 
